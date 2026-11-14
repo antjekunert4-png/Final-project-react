@@ -18,7 +18,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/antjekunert4-png/homework-react-week-5"
+            href="https://github.com/antjekunert4-png/Final-project-react"
             target="_blank"
             rel="noopener noreferrer"
           >
